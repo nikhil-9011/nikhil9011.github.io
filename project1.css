@@ -1,0 +1,33 @@
+html{
+    background-color: silver;
+}
+
+.heading{
+    color: black;
+    text-align: center;
+}
+
+.table_tags, .table_attributes{
+    color: magenta;
+    text-align: center;
+}
+
+.table1{
+    margin: auto;
+}
+
+.table1, th, tr, td{
+    border: 1px solid red
+}
+
+th{
+    text-align: center;
+}
+
+.table_heading{
+    background-color: blueviolet;
+}
+
+td{
+    background-color: white;
+}
